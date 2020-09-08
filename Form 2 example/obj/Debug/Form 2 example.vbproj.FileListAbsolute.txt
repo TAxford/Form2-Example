@@ -1,0 +1,5 @@
+C:\Users\timot\source\repos\Form 2 example\Form 2 example\obj\Debug\Form 2 example.vbprojAssemblyReference.cache
+C:\Users\timot\source\repos\Form 2 example\Form 2 example\obj\Debug\Form_2_example.Form1.resources
+C:\Users\timot\source\repos\Form 2 example\Form 2 example\obj\Debug\Form_2_example.Resources.resources
+C:\Users\timot\source\repos\Form 2 example\Form 2 example\obj\Debug\Form 2 example.vbproj.GenerateResource.cache
+C:\Users\timot\source\repos\Form 2 example\Form 2 example\obj\Debug\Form 2 example.vbproj.CoreCompileInputs.cache
